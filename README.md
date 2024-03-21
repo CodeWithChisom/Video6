@@ -1,2 +1,1 @@
-# Video6
-CSS Box Model
+# CSS Box Model
